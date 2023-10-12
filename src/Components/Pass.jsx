@@ -1,5 +1,5 @@
 
-const Pass = ({password, passwordRef, copy, copyToClipBoard, length, addNumbers, addCharacter, setLength, setAddNumbers, setAddCharacter}) => {
+const Pass = ({password, passwordRef, setCopy, copy, copyToClipBoard, length, addNumbers, addCharacter, setLength, setAddNumbers, setAddCharacter}) => {
     
     return (
 

@@ -44,6 +44,7 @@ const App = () => {
       <Pass
        password={password}
        passwordRef={passwordRef}
+       setCopy={setCopy}
        copy={copy}
        copyToClipBoard={copyToClipBoard}
        length={length}
