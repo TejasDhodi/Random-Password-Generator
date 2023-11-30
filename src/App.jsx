@@ -54,6 +54,7 @@ const App = () => {
        setAddNumbers={setaddNumbers}
        setAddCharacter={setaddCharacter}
        />
+
        
     </>
   )
